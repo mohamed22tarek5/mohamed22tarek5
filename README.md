@@ -1,7 +1,7 @@
 # Mohamed Tarek 👋
 
 ## About Me
-Hi! My name is **Mohamed Tarek**, and I'm a **Communications Engineer** from Egypt. I specialize in **Electronics, Programming**, and **PCB Design**. I'm passionate about learning new technologies and building impactful projects.
+Hi! My name is **Mohamed Tarek**, and I'm a **Communications Engineer** from Egypt. I specialize in **Electronics, Programming**,**ARDUINO**,**PYTHON**,**C language** and **PCB Design**. I'm passionate about learning new technologies and building impactful projects.
 
 ---
 
