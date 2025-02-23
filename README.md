@@ -34,14 +34,25 @@ Hi! My name is **Mohamed Tarek**, and I'm a **Communications Engineer** from Egy
 
 ## 📬 Contact Me
 
-- [Gmail](mailto:your.email@gmail.com)
-- [Instagram](https://instagram.com/_m7md_tarek_)
-- [Facebook](https://www.facebook.com/mohammed.tarek.5249349)
-- [WhatsApp](https://wa.me/+201090637406)
-- [LinkedIn](https://www.linkedin.com/in/medo-tarek-b5ba24246)
-- [YouTube](https://www.youtube.com/channel/yourchannel)
-- [Linktree](https://linktr.ee/m7mdtarek22)
+ <div align="left">
+  <a href="https://www.linkedin.com/in/medo-tarek-b5ba24246" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/m7mdtarek225?t=_Sw1B7eTRoajvKqqM3BsNA&s=09" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/_m7md_tarek_?igshid=YmMyMTA2M2Y=" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/+201090637406" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.facebook.com/mohammed.tarek.5249349" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
 
+###
 ---
 
 
