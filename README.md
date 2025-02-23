@@ -8,6 +8,7 @@ Hi! My name is **Mohamed Tarek**, and I'm a **Communications Engineer** from Egy
 ## 🛠️ Skills & Tools
 
 ### Languages & Technologies:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -54,8 +55,6 @@ Hi! My name is **Mohamed Tarek**, and I'm a **Communications Engineer** from Egy
 
 ###
 ---
-
-
 
 ## 📈 GitHub Stats
 
