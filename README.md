@@ -59,6 +59,13 @@ I'm a **Communications Engineer** from Egypt. I specialize in **Electronics, Pro
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed22tarek5&show_icons=true&count_private=true&hide=prs&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=mazen-daghari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mazen-daghari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mazen-daghari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mazen-daghari&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mazen-daghari&icon=0&color=7)](https://visitcount.itsvg.in)
 
