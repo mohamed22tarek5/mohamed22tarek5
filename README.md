@@ -1,12 +1,3 @@
-Below is a **clean, structured, ready-to-use Markdown README.md** for your full portfolio.
-It combines **both versions** of your content into one professional file.
-
-You can copy-paste it directly into **GitHub** or your **portfolio repo**.
-
----
-
-# 📌 **README.md – Mohamed Tarek Portfolio**
-
 # **Mohamed Tarek**
 
 **Communications & Electronics Engineer**
