@@ -158,7 +158,7 @@ I built and host **20+ free interactive calculators** — a key part of my portf
 5. **Circuit Simulation** — Verification with Proteus & TinkerCAD
 6. **IoT Solutions** — End-to-end: hardware + firmware + cloud + dashboard
 
-📩 For inquiries: [https://mohamed-tarek-abdelhady.vercel.app/Mohamed%20-%20Services.html](https://mohamed-tarek-abdelhady.vercel.app/services.html) or email me directly.
+📩 For inquiries: [mohamed-tarek-abdelhady.vercel.app/Mohamed - Services.html](https://mohamed-tarek-abdelhady.vercel.app/Mohamed%20-%20Services.html) or email me directly.
 
 ---
 
@@ -179,7 +179,7 @@ I built and host **20+ free interactive calculators** — a key part of my portf
 
 **Download my CV:**
 
-- 👀 [View CV Online](https://mohamed-tarek-abdelhady.vercel.app/cv.html)
+- 👀 [View CV Online](https://mohamed-tarek-abdelhady.vercel.app/Mohamed%20-%20CV.html)
 - 📄 [Download PDF](https://mohamed-tarek-abdelhady.vercel.app/Mohamed_Tarek_Abdelhady_Engineer_CV.pdf)
 
 ---
