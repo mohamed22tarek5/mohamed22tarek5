@@ -166,7 +166,6 @@ I built and host **20+ free interactive calculators** — a key part of my portf
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed22tarek5&show_icons=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mohamed22tarek5&theme=dark&hide_border=false" alt="Streak Stats" height="165" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed22tarek5&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
 </div>
