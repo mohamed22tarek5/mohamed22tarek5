@@ -145,7 +145,7 @@ I built and host **20+ free interactive calculators** — a key part of my portf
 - [PCB Trace Width (IPC-2221)](https://mohamed-tarek-abdelhady.vercel.app/sites/pcb-trace-width-calculator.html) • [dB / dBm](https://mohamed-tarek-abdelhady.vercel.app/sites/decibel-dbm-calculator.html) • [Battery + Solar](https://mohamed-tarek-abdelhady.vercel.app/sites/battery-solar-calculator.html)
 - [Op-Amp Gain](https://mohamed-tarek-abdelhady.vercel.app/sites/op-amp-gain-calculator.html) • And more…
 
-➡️ Full directory: [https://mohamed-tarek-abdelhady.vercel.app/Mohamed%20-%20my-sites.html](https://mohamed-tarek-abdelhady.vercel.app/tools.html)
+➡️ Full directory: [mohamed-tarek-abdelhady.vercel.app/Mohamed - my-sites.html](https://mohamed-tarek-abdelhady.vercel.app/Mohamed%20-%20my-sites.html)
 
 ---
 
@@ -175,11 +175,11 @@ I built and host **20+ free interactive calculators** — a key part of my portf
 ## 📜 Certificates & CV
 
 **13+ professional certificates** — view verified certificates here:
-🔗 [mohamed-tarek-abdelhady.vercel.app/certificates.html](https://mohamed-tarek-abdelhady.vercel.app/certificates.html)
+🔗 [mohamed-tarek-abdelhady.vercel.app/Mohamed - Certificates.html](https://mohamed-tarek-abdelhady.vercel.app/Mohamed%20-%20Certificates.html)
 
 **Download my CV:**
 
-- 👀 [View CV Online](https://mohamed-tarek-abdelhady.vercel.app/Mohamed%20-%20Certificates.html)
+- 👀 [View CV Online](https://mohamed-tarek-abdelhady.vercel.app/cv.html)
 - 📄 [Download PDF](https://mohamed-tarek-abdelhady.vercel.app/Mohamed_Tarek_Abdelhady_Engineer_CV.pdf)
 
 ---
