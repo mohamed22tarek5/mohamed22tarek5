@@ -123,7 +123,7 @@ I specialize in turning ideas into real working systems — from schematic and P
 | 🌐 **Portfolio Website + PWA** | Fully responsive portfolio, dark/light theme, SEO + offline support | HTML5, CSS3, JS, PWA |
 | 🔬 **Circuit Simulations** | Multiple electronics designs modeled and verified | Proteus, TinkerCAD, Multisim |
 
-➡️ Explore all: [mohamed-tarek-abdelhady.vercel.app/projects.html](https://mohamed-tarek-abdelhady.vercel.app/projects.html)
+➡️ Explore all: [mohamed-tarek-abdelhady.vercel.app/projects.html](https://mohamed-tarek-abdelhady.vercel.app/Mohamed%20-%20Project.html)
 
 ### 📊 Track Record
 
@@ -145,7 +145,7 @@ I built and host **20+ free interactive calculators** — a key part of my portf
 - [PCB Trace Width (IPC-2221)](https://mohamed-tarek-abdelhady.vercel.app/sites/pcb-trace-width-calculator.html) • [dB / dBm](https://mohamed-tarek-abdelhady.vercel.app/sites/decibel-dbm-calculator.html) • [Battery + Solar](https://mohamed-tarek-abdelhady.vercel.app/sites/battery-solar-calculator.html)
 - [Op-Amp Gain](https://mohamed-tarek-abdelhady.vercel.app/sites/op-amp-gain-calculator.html) • And more…
 
-➡️ Full directory: [mohamed-tarek-abdelhady.vercel.app/tools.html](https://mohamed-tarek-abdelhady.vercel.app/tools.html)
+➡️ Full directory: [https://mohamed-tarek-abdelhady.vercel.app/Mohamed%20-%20my-sites.html](https://mohamed-tarek-abdelhady.vercel.app/tools.html)
 
 ---
 
@@ -158,7 +158,7 @@ I built and host **20+ free interactive calculators** — a key part of my portf
 5. **Circuit Simulation** — Verification with Proteus & TinkerCAD
 6. **IoT Solutions** — End-to-end: hardware + firmware + cloud + dashboard
 
-📩 For inquiries: [mohamed-tarek-abdelhady.vercel.app/services.html](https://mohamed-tarek-abdelhady.vercel.app/services.html) or email me directly.
+📩 For inquiries: [https://mohamed-tarek-abdelhady.vercel.app/Mohamed%20-%20Services.html](https://mohamed-tarek-abdelhady.vercel.app/services.html) or email me directly.
 
 ---
 
@@ -179,7 +179,7 @@ I built and host **20+ free interactive calculators** — a key part of my portf
 
 **Download my CV:**
 
-- 👀 [View CV Online](https://mohamed-tarek-abdelhady.vercel.app/cv.html)
+- 👀 [View CV Online](https://mohamed-tarek-abdelhady.vercel.app/Mohamed%20-%20Certificates.html)
 - 📄 [Download PDF](https://mohamed-tarek-abdelhady.vercel.app/Mohamed_Tarek_Abdelhady_Engineer_CV.pdf)
 
 ---
